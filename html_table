@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Pokemon Table</title>
+  </head>
+  <body>
+    <table border="1">
+
+
+    <thead>
+      <tr>
+        <th>Image</th>
+        <th>Name</th>
+        <th>Type</th>
+        <th>Evolution</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><img src="https://cdn2.bulbagarden.net/upload/2/21/001Bulbasaur.png" alt="Bulbasaur the fisrt Pokemon that appreas in the pokedex and is the grass type starter"></td>
+        <td>001Bulbasaur</td>
+        <td>Grass</td>
+        <td><a href="https://bulbapedia.bulbagarden.net/wiki/Ivysaur_(Pok%C3%A9mon)">Evolution Ivysaur</a></td>
+      </tr>
+      <tr>
+        <td><img src="https://cdn2.bulbagarden.net/upload/7/73/004Charmander.png" alt="Charmander is the fourth pokemon to appaear in the Pokedex and is the fire type starter"></td>
+        <td>004Charmander</td>
+        <td>Fire</td>
+          <td><a href="https://bulbapedia.bulbagarden.net/wiki/Charmeleon_(Pok%C3%A9mon)">Evolution Charmelon</a></td>
+      </tr>
+      <tr>
+        <td><img src="https://cdn2.bulbagarden.net/upload/3/39/007Squirtle.png" alt="Squirtle is the seventh pokemon to appaearin the Pokedex and is the water type starter"></td>
+        <td>007Squirtle</td>
+        <td>Water</td>
+        <td><a href="https://bulbapedia.bulbagarden.net/wiki/Wartortle_(Pok%C3%A9mon))">Evolution Wartortle</a></td>
+       </tr>
+      </tbody>
+    </table>
+
+  </body>
+</html>
