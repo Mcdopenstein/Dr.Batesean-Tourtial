@@ -1,6 +1,6 @@
 # Dr.Batesean-Tourtial
-Hey guys so I have been having a harder time landing my first role in the Web Development feild than I anticipated 
-To make up for that my fellow developer Josh Moynihan (github.com/hamstache) told me to check Dr.Bateseans Youtube tutorial
+Hey guys so I have been having a harder time landing my first role in the Web Development feild than I was anticipating<br> 
+To make up for that my friend Josh Moynihan (github.com/hamstache) told me to check Dr.Bateseans Youtube tutorial<br>
 Here I am attempting to increase my skills and chances of landing a role
 
 I graduated Arizona State Universty Apr25,2021 with a Bachelors of Science In Graphic Information Technology
